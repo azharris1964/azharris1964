@@ -19,7 +19,7 @@
 
 
 
-###### In this course we explored computer generated media, using the coding language "P5.js". We coverered essential programming concepts like: variables, inputs, looping, functions, arrays, object based programming, data visualisation, and an introduction into Python and APIs.
+###### In this course we explored computer generated media, using the coding language "P5.js". We coverered essential programming concepts like: variables, inputs, looping, functions, arrays, object based programming, data visualisation, and an introduction into Python and APIs. We ended the semester developing a github site that hosted all of our projects. Mine is still functional! The link is here: (https://azharris1964.github.io/Harrishosting.github.io/)
 
 
 - ### CSMA 111 Introduction to Three-Dimensional Worlds - Mark Ericson - Spring 2021
