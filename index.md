@@ -2,9 +2,7 @@
 
 
 
-## Major Projects
-
-- ### CSMA 101 Introduction to Programming - Echo Theohar - Fall 2019
+- ## CSMA 101 Introduction to Programming - Echo Theohar - Fall 2019
 ##### In this course we explored computer generated media, using the coding language "P5.js". We coverered essential programming concepts like: variables, inputs, looping, functions, arrays, object based programming, data visualisation, and an introduction into Python and APIs. We ended the semester developing a github site that hosted all of our projects. Mine is still functional! The link is [here!](https://azharris1964.github.io/Harrishosting.github.io/)
   - Variable Exercise  
   
@@ -23,7 +21,7 @@
 ![Screenshot 2022-02-28 045628](https://user-images.githubusercontent.com/20175659/155987286-2d10c64d-fbfe-48d3-a178-3af05b75600b.png)
 
 
-- ### CSMA 111 Introduction to Three-Dimensional Worlds - Mark Ericson - Spring 2021
+- ## CSMA 111 Introduction to Three-Dimensional Worlds - Mark Ericson - Spring 2021
 ##### The objective of this course was to explore 3-dimensional space using computation. In practice, we used manipulated sphere algorithms to manipulate and distort space. We explored methods of 3-D rendering first in processing, then in Rhino.
 
   - Round Drawings : We learned about drawing spheres and the fundamentals of drawing using computation in Processing.
@@ -46,7 +44,7 @@
 
 
 
-- ### CSMA 112 Interactive Prototyping - Gottfried Haider - Spring 2021
+- ## CSMA 112 Interactive Prototyping - Gottfried Haider - Spring 2021
 ##### In this course I learned got a hands-on introduction into prototype creation and design. We learned practical electronics knowledge along with programming in Python to develop working prototypes. We got to use microcomputers, sensors, fabrication software, LEDs. and more to establish interactions between users and these objects.
 
  -  Analog Input Project 
@@ -57,7 +55,7 @@
 
 ![wifi_judge](https://user-images.githubusercontent.com/20175659/155996750-ea2d70d6-c0b7-4366-8d84-949831522ea9.png)
 
-- ### CSMA 113 Mixed Reality - Michael Peguero - Spring 2021
+- ## CSMA 113 Mixed Reality - Michael Peguero - Spring 2021
 ##### This class allowed me to expermient with the world of VR and AR in a computational and design framework. This class taught me how to develop VR and AR interactions for tools such as SparkAR, Glitch.io, A-Frame, and finally Unity. We practiced different aspects of computational design and learned the skills to produce media using video processing, motion, and my conceptual aesthetics.
 
  - A-Frame + Glitch.io + SparkAR
@@ -77,7 +75,7 @@
 
 
 
-- ### CSMA 212 Media Environments - Ivaylo Getov - Spring 2022
+- ## CSMA 212 Media Environments - Ivaylo Getov - Spring 2022
 ##### In this class I learned how to manipulate computational environments on a human scale. This meant projection mapping, room-scaled installations, and other forms of media that interact with both the user and the space. This is accomplished in a program called "TouchDesigner" where modules are put together to project an output with the given variables. This program can handle anything from motion tracking to object instantiation.
 
   - Texture and Channels Assignment
@@ -86,11 +84,11 @@
 
 
 
-- ### CSMA 213 Artificial Intelligence - Nikita Pashenkov - Spring 2022
+- ## CSMA 213 Artificial Intelligence - Nikita Pashenkov - Spring 2022
 ##### The objective of this course was to explore 3-dimensional space using computation. In practice, we used manipulated sphere algorithms to manipulate and distort space. We explored methods of 3-D rendering first in processing, then in Rhino.
 
 
-- ### CSMA 214 Applied Mathematics - Michael Peguero - Spring 2022
+- ## CSMA 214 Applied Mathematics - Michael Peguero - Spring 2022
 ##### The objective of this course was to explore 3-dimensional space using computation. In practice, we used manipulated sphere algorithms to manipulate and distort space. We explored methods of 3-D rendering first in processing, then in Rhino.
 
 
