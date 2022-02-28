@@ -47,7 +47,7 @@
 
 
 - ### CSMA 112 Interactive Prototyping - Gottfried Haider - Spring 2021
-##### In this course I learned got a hands=on introduction into prototype creation and design. We learned practical electronics knowledge along with programming in Python to develop working prototypes. We got to use microcomputers, sensors, fabrication software, LEDs. and more to establish interactions between users and these objects.
+##### In this course I learned got a hands-on introduction into prototype creation and design. We learned practical electronics knowledge along with programming in Python to develop working prototypes. We got to use microcomputers, sensors, fabrication software, LEDs. and more to establish interactions between users and these objects.
 
  -  Analog Input Project 
 
@@ -58,8 +58,15 @@
 ![wifi_judge](https://user-images.githubusercontent.com/20175659/155996750-ea2d70d6-c0b7-4366-8d84-949831522ea9.png)
 
 - ### CSMA 113 Mixed Reality - Michael Peguero - Spring 2021
-##### The objective of this course was to explore 3-dimensional space using computation. In practice, we used manipulated sphere algorithms to manipulate and distort space. We explored methods of 3-D rendering first in processing, then in Rhino.
+##### This class allowed me to expermient with the world of VR and AR in a computational and design framework. This class taught me how to develop VR and AR interactions for tools such as SparkAR, Glitch.io, A-Frame, and finally Unity. We practiced different aspects of computational design and learned the skills to produce media using video processing, motion, and my conceptual aesthetics.
 
+ - A-Frame + Glitch.io + SparkAR
+ 
+
+![VR Experience](https://user-images.githubusercontent.com/20175659/156003138-711f5ae8-6187-4631-836f-7aa1aeb9ea98.mp4)
+
+
+ 
 
 
 - ### CSMA 212 Media Environments - Ivaylo Getov - Spring 2022
