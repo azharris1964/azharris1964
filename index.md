@@ -62,18 +62,19 @@
 
  - A-Frame + Glitch.io + SparkAR
  
-https://user-images.githubusercontent.com/20175659/156003138-711f5ae8-6187-4631-836f-7aa1aeb9ea98.mp4
+![ARMONTAE_HARRIS-VD-02_Moment](https://user-images.githubusercontent.com/20175659/156008108-b44d4451-9c41-4446-a8da-c4795e359f12.jpg)
 
-https://user-images.githubusercontent.com/20175659/156004001-ca4b2e11-c22c-4e05-9ae3-aba518a9fb97.mp4
+![menu-interface-video_g2PRACOT_Moment](https://user-images.githubusercontent.com/20175659/156008298-22dd48b4-8715-4416-bee3-e8f734a3271d.jpg)
 
-https://user-images.githubusercontent.com/20175659/156004154-de2aa9c2-acb1-4bce-9642-4a4f2969d543.mp4
+![Cyber Initiative Facts_Moment](https://user-images.githubusercontent.com/20175659/156008471-d3cea552-72f9-406f-bcf3-efd6b14c9322.jpg)
 
 - Unity Final
 
 ![unity final](https://user-images.githubusercontent.com/20175659/156005815-3ecdb0ce-9cda-4253-8a9a-d2108b81f07a.jpg)
 
+![2021-04-28 17-03-38_Moment](https://user-images.githubusercontent.com/20175659/156007826-ad3e4648-c065-4bab-9d5c-8dbc2fd0af7d.jpg)
 
-https://user-images.githubusercontent.com/20175659/156005883-ac59f789-6deb-45ad-bce6-22f22806f7c0.mp4
+
 
 
 - ### CSMA 212 Media Environments - Ivaylo Getov - Spring 2022
