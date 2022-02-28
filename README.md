@@ -1,14 +1,16 @@
-### Hello Friends!  
+Hi! My name is Armontae Harris. I am an asipirng Game Developer and I'm studying at Woodbury University in the Applied Computer Science Program.
 
-<!--
-**azharris1964/azharris1964** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Within this repository you will find the source code for the projects I have completed in the following courses:
+
+<ul>
+  <li>CSMA 101 Introduction to Programming</li>
+  <li>CSMA 111 Introduction to Three-Dimensional Worlds</li>
+  <li>CSMA 112 Interactive Prototyping</li>
+  <li>CSMA 113 Mixed Reality</li>
+  <li>CSMA 212 Media Environments</li>
+  <li>CSMA 213 Artificial Intelligence</li>
+  <li>CSMA 214 Applied Mathematics</li>
+</ul>
+
+In the branch title "gh.pages" you will find the source code for the website that describes the various assingments.
+
