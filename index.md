@@ -20,6 +20,7 @@
 
 
 - ### CSMA 111 Introduction to Three-Dimensional Worlds - Mark Ericson - Spring 2021
+##### The objective of this course was to explore 3-dimensional space using computation. In practice, we used manipulated sphere algorithms to manipulate and distort space. We explored methods of 3-D rendering first in processing, then in Rhino.
 
   - Round Drawings : We learned about drawing spheres and the fundamentals of drawing using computation in Processing.
  
@@ -39,7 +40,7 @@
 
 ![moss50_50_50Color  A=255, R=29, G=255, B=99](https://user-images.githubusercontent.com/20175659/155991537-2d075f47-85f2-4298-9675-534df49fcdcf.png)
 
-##### The objective of this course was to explore 3-dimensional space using computation. In practice, we used manipulated sphere algorithms to manipulate and distort space. We explored methods of 3-D rendering first in processing, then in Rhino.
+
 
 
 - ### CSMA 112 Interactive Prototyping - Gottfried Haider - Spring 2021
