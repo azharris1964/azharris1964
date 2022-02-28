@@ -12,5 +12,5 @@ Within this repository you will find the source code for the projects I have com
   <li>CSMA 214 Applied Mathematics</li>
 </ul>
 
-In the branch title "gh.pages" you will find the source code for the website that describes the various assingments.
+In the branch title "gh-pages" you will find the source code for the website that describes the various assingments.
 
