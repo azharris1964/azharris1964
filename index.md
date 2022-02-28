@@ -61,9 +61,11 @@
 ##### This class allowed me to expermient with the world of VR and AR in a computational and design framework. This class taught me how to develop VR and AR interactions for tools such as SparkAR, Glitch.io, A-Frame, and finally Unity. We practiced different aspects of computational design and learned the skills to produce media using video processing, motion, and my conceptual aesthetics.
 
  - A-Frame + Glitch.io + SparkAR
- 
+https://user-images.githubusercontent.com/20175659/156003138-711f5ae8-6187-4631-836f-7aa1aeb9ea98.mp4
 
-![VR Experience](https://user-images.githubusercontent.com/20175659/156003138-711f5ae8-6187-4631-836f-7aa1aeb9ea98.mp4)
+https://user-images.githubusercontent.com/20175659/156004001-ca4b2e11-c22c-4e05-9ae3-aba518a9fb97.mp4
+
+https://user-images.githubusercontent.com/20175659/156004154-de2aa9c2-acb1-4bce-9642-4a4f2969d543.mp4
 
 
  
