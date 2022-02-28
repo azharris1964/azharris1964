@@ -5,17 +5,21 @@
 ## Major Projects
 
 - ### CSMA 101 Introduction to Programming - Echo Theohar - Fall 2019
-##### In this course we explored computer generated media, using the coding language "P5.js". We coverered essential programming concepts like: variables, inputs, looping, functions, arrays, object based programming, data visualisation, and an introduction into Python and APIs. We ended the semester developing a github site that hosted all of our projects. Mine is still functional! The link is [here:](https://azharris1964.github.io/Harrishosting.github.io/)
+##### In this course we explored computer generated media, using the coding language "P5.js". We coverered essential programming concepts like: variables, inputs, looping, functions, arrays, object based programming, data visualisation, and an introduction into Python and APIs. We ended the semester developing a github site that hosted all of our projects. Mine is still functional! The link is [here!](https://azharris1964.github.io/Harrishosting.github.io/)
   - Variable Exercise  
+  
 ![Mapping HW Preview 1](https://user-images.githubusercontent.com/20175659/155985379-f9ba96aa-022b-414e-b90c-7a554f06078a.png)
 
   - Input Exercise (Pong)
+  
 ![Pong project](https://user-images.githubusercontent.com/20175659/155985803-588aed77-2932-447a-b7b3-f7b6124fc2d9.png)
 
   - Looping (Curtains)
+  
 ![Curtain 2 Screencap](https://user-images.githubusercontent.com/20175659/155985967-0ee5f0e5-fe2c-414d-be96-bc9e230c8ed6.png)
 
   - GitHub Web Design (Major Project)
+  
 ![Screenshot 2022-02-28 045628](https://user-images.githubusercontent.com/20175659/155987286-2d10c64d-fbfe-48d3-a178-3af05b75600b.png)
 
 
