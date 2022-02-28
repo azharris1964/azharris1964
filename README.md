@@ -1,4 +1,4 @@
-Hi! My name is Armontae Harris. I am an asipirng Game Developer and I'm studying at Woodbury University in the Applied Computer Science Program.
+Hi! My name is Armontae Harris. I am an aspiring Game Developer and I'm studying at Woodbury University in the Applied Computer Science Program.
 
 Within this repository you will find the source code for the projects I have completed in the following courses:
 
