@@ -46,34 +46,32 @@
 
 
 
-
 - ### CSMA 112 Interactive Prototyping - Gottfried Haider - Spring 2021
-// image goes here 
-##### In this course we explored computer generated media, using the coding language "P5.js"
+##### In this course I learned got a hands=on introduction into prototype creation and design. We learned practical electronics knowledge along with programming in Python to develop working prototypes. We got to use microcomputers, sensors, fabrication software, LEDs. and more to establish interactions between users and these objects.
 
+ -  Analog Input Project 
 
+![Asssignment 4 Picture and Description Armontae Harris-01](https://user-images.githubusercontent.com/20175659/155996978-06bc14f6-40c7-4ae5-91ad-a6e87347d480.png)
+
+ - Wearable Assignment
+
+![wifi_judge](https://user-images.githubusercontent.com/20175659/155996750-ea2d70d6-c0b7-4366-8d84-949831522ea9.png)
 
 - ### CSMA 113 Mixed Reality - Michael Peguero - Spring 2021
-// image goes here 
-##### In this course we explored computer generated media, using the coding language "P5.js"
+##### The objective of this course was to explore 3-dimensional space using computation. In practice, we used manipulated sphere algorithms to manipulate and distort space. We explored methods of 3-D rendering first in processing, then in Rhino.
 
 
 
 - ### CSMA 212 Media Environments - Ivaylo Getov - Spring 2022
-// image goes here 
-##### In this course we explored computer generated media, using the coding language "P5.js"
-
+##### The objective of this course was to explore 3-dimensional space using computation. In practice, we used manipulated sphere algorithms to manipulate and distort space. We explored methods of 3-D rendering first in processing, then in Rhino.
 
 
 - ### CSMA 213 Artificial Intelligence - Nikita Pashenkov - Spring 2022
-// image goes here 
-##### In this course we explored computer generated media, using the coding language "P5.js"
-
+##### The objective of this course was to explore 3-dimensional space using computation. In practice, we used manipulated sphere algorithms to manipulate and distort space. We explored methods of 3-D rendering first in processing, then in Rhino.
 
 
 - ### CSMA 214 Applied Mathematics - Michael Peguero - Spring 2022
-// image goes here 
-##### In this course we explored computer generated media, using the coding language "P5.js"
+##### The objective of this course was to explore 3-dimensional space using computation. In practice, we used manipulated sphere algorithms to manipulate and distort space. We explored methods of 3-D rendering first in processing, then in Rhino.
 
 
 
