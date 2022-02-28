@@ -78,7 +78,12 @@
 
 
 - ### CSMA 212 Media Environments - Ivaylo Getov - Spring 2022
-##### The objective of this course was to explore 3-dimensional space using computation. In practice, we used manipulated sphere algorithms to manipulate and distort space. We explored methods of 3-D rendering first in processing, then in Rhino.
+##### In this class I learned how to manipulate computational environments on a human scale. This meant projection mapping, room-scaled installations, and other forms of media that interact with both the user and the space. This is accomplished in a program called "TouchDesigner" where modules are put together to project an output with the given variables. This program can handle anything from motion tracking to object instantiation.
+
+  - Texture and Channels Assignment
+
+![Screenshot 2022-02-28 072954](https://user-images.githubusercontent.com/20175659/156011002-3eab02e9-2bb5-42cf-b955-85ba8f5802dd.png)
+
 
 
 - ### CSMA 213 Artificial Intelligence - Nikita Pashenkov - Spring 2022
