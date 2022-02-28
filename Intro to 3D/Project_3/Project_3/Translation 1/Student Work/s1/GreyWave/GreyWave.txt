@@ -1,0 +1,11 @@
+File_Name_GreyWave
+Stop_50
+Rotations1_50
+Rotations2_50
+Rotations3_5
+Sides_50
+Radius_50
+Red_50.0
+Green_50.0
+Blue_50.0
+Height_5

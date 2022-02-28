@@ -1,0 +1,11 @@
+File_Name_moss
+Stop_100
+Rotations1_50
+Rotations2_50
+Rotations3_50
+Sides_45
+Radius_30
+Red_30.0
+Green_255.0
+Blue_100.0
+Height_50

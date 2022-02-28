@@ -1,0 +1,11 @@
+File_Name_yessir
+Stop_100
+Rotations1_100
+Rotations2_100
+Rotations3_5
+Sides_54
+Radius_60
+Red_30.0
+Green_56.0
+Blue_99.0
+Height_45
