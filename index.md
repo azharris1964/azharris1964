@@ -42,8 +42,6 @@
 
 ![moss50_50_50Color  A=255, R=29, G=255, B=99](https://user-images.githubusercontent.com/20175659/155991537-2d075f47-85f2-4298-9675-534df49fcdcf.png)
 
-
-
 - ## CSMA 112 Interactive Prototyping - Gottfried Haider - Spring 2021
 #### In this course I learned got a hands-on introduction into prototype creation and design. We learned practical electronics knowledge along with programming in Python to develop working prototypes. We got to use microcomputers, sensors, fabrication software, LEDs. and more to establish interactions between users and these objects.
 
@@ -72,9 +70,6 @@
 
 ![2021-04-28 17-03-38_Moment](https://user-images.githubusercontent.com/20175659/156007826-ad3e4648-c065-4bab-9d5c-8dbc2fd0af7d.jpg)
 
-
-
-
 - ## CSMA 212 Media Environments - Ivaylo Getov - Spring 2022
 #### In this class I learned how to manipulate computational environments on a human scale. This meant projection mapping, room-scaled installations, and other forms of media that interact with both the user and the space. This is accomplished in a program called "TouchDesigner" where modules are put together to project an output with the given variables. This program can handle anything from motion tracking to object instantiation.
 
@@ -82,15 +77,15 @@
 
 ![Screenshot 2022-02-28 072954](https://user-images.githubusercontent.com/20175659/156011002-3eab02e9-2bb5-42cf-b955-85ba8f5802dd.png)
 
-
-
 - ## CSMA 213 Artificial Intelligence - Nikita Pashenkov - Spring 2022
-#### The objective of this course was to explore 3-dimensional space using computation. In practice, we used manipulated sphere algorithms to manipulate and distort space. We explored methods of 3-D rendering first in processing, then in Rhino.
+#### This class has taught me some of the principles and algorithms that govern machine and deep learning. We explored concepts like search algorithms, evolutionary algorithms, swarm intelligence, and model training.
 
 
 - ## CSMA 214 Applied Mathematics - Michael Peguero - Spring 2022
-#### The objective of this course was to explore 3-dimensional space using computation. In practice, we used manipulated sphere algorithms to manipulate and distort space. We explored methods of 3-D rendering first in processing, then in Rhino.
+#### Taking this course exposed me algorithmic thinking and mathematical logic in the context of computation. We explored the applications of flocking/swarming simulations as well as genetic algorithms that learn from previous inputs. The core concept of this class is deriving an issue and solving it algorithmically.
 
+  - Flocking Simulation
 
+![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
 
 
