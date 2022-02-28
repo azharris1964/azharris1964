@@ -23,8 +23,15 @@
 
 
 - ### CSMA 111 Introduction to Three-Dimensional Worlds - Mark Ericson - Spring 2021
-// image goes here 
-##### In this course we explored computer generated media, using the coding language "P5.js"
+
+  - Round Drawings: We learned about drawing spheres and the fundamentals of drawing using computation  
+![Birth of a Star](https://user-images.githubusercontent.com/20175659/155989519-993b19db-d14e-4914-8984-3da819d49c3d.png)
+
+
+https://user-images.githubusercontent.com/20175659/155989559-47d634fe-6075-45f5-8152-5588d1e2d0e9.mp4
+
+
+##### The objective of this course was to explore 3-dimensional space using computation. In practice, we used manipulated sphere algorithms to manipulate and distort space. We explored methods of 3-D rendering first in processing, then in Rhino.
 
 
 - ### CSMA 112 Interactive Prototyping - Gottfried Haider - Spring 2021
