@@ -5,19 +5,19 @@
 - ## CSMA 101 Introduction to Programming - Echo Theohar - Fall 2019
 #### In this course we developed computer generated media using the coding language "P5.js". We coverered essential programming concepts like: variables, inputs, looping, functions, arrays, object based programming, data visualisation, and an introduction into Python and APIs. We ended the semester developing a github site that hosted all of our projects. Mine is still functional. The link is [here!](https://azharris1964.github.io/Harrishosting.github.io/)
   - Variable Exercise  
-####
+
 ![Mapping HW Preview 1](https://user-images.githubusercontent.com/20175659/155985379-f9ba96aa-022b-414e-b90c-7a554f06078a.png)
 
   - Input Exercise (Pong)
-####
+
 ![Pong project](https://user-images.githubusercontent.com/20175659/155985803-588aed77-2932-447a-b7b3-f7b6124fc2d9.png)
 
   - Looping (Curtains)
-####
+
 ![Curtain 2 Screencap](https://user-images.githubusercontent.com/20175659/155985967-0ee5f0e5-fe2c-414d-be96-bc9e230c8ed6.png)
 
   - GitHub Web Design (Major Project)
-####
+
 ![Screenshot 2022-02-28 045628](https://user-images.githubusercontent.com/20175659/155987286-2d10c64d-fbfe-48d3-a178-3af05b75600b.png)
 
 
@@ -60,7 +60,7 @@
 #### This class allowed me to expermient with the world of VR and AR in a computational and design framework. This class taught me how to develop VR and AR interactions for tools such as SparkAR, Glitch.io, A-Frame, and finally Unity. We practiced different aspects of computational design and learned the skills to produce media using video processing, motion, and my conceptual aesthetics.
 
  - A-Frame + Glitch.io + SparkAR
- ####
+
 ![ARMONTAE_HARRIS-VD-02_Moment](https://user-images.githubusercontent.com/20175659/156008108-b44d4451-9c41-4446-a8da-c4795e359f12.jpg)
 
 ![menu-interface-video_g2PRACOT_Moment](https://user-images.githubusercontent.com/20175659/156008298-22dd48b4-8715-4416-bee3-e8f734a3271d.jpg)
@@ -68,7 +68,7 @@
 ![Cyber Initiative Facts_Moment](https://user-images.githubusercontent.com/20175659/156008471-d3cea552-72f9-406f-bcf3-efd6b14c9322.jpg)
 
 - Unity Final
-####
+
 ![unity final](https://user-images.githubusercontent.com/20175659/156005815-3ecdb0ce-9cda-4253-8a9a-d2108b81f07a.jpg)
 
 ![2021-04-28 17-03-38_Moment](https://user-images.githubusercontent.com/20175659/156007826-ad3e4648-c065-4bab-9d5c-8dbc2fd0af7d.jpg)
@@ -95,7 +95,7 @@
 
   - Hugging Face GAN Exploration
 
-####
+
 ![input1](https://user-images.githubusercontent.com/20175659/165183556-28f0fdb4-f3e9-46aa-b9dc-7d8dc8248546.jpg)
 ![output1](https://user-images.githubusercontent.com/20175659/165183610-89859d50-0ced-4a51-90a3-c8ae93c8ae55.jpg)
 ![input3](https://user-images.githubusercontent.com/20175659/165183631-6a4ce66e-db31-4bbe-ae86-caeef54a3c33.jpg)
@@ -107,11 +107,11 @@
 #### Taking this course exposed me algorithmic thinking and mathematical logic in the context of computation. We explored the applications of flocking/swarming simulations, factorials and nChooseK, Game of Life, and the Mandelbrot algorithm. The core concept of this class is deriving an issue and solving it algorithmically. For my final assignment I created a Shopping Simulation in Unity that combined various algorithms and methods to create an abstracted shopping mall experience.
 
   - Flocking Simulation
-####
+
 ![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
 
   - Evolution Algorithm
-####
+
 ![HarrisA_EvolutionAlgorithm_Movement_Moment](https://user-images.githubusercontent.com/20175659/156014789-8ef02bda-cbf6-451f-b2f8-fb37599ec380.jpg)
 
 
