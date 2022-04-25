@@ -104,7 +104,7 @@
 ![output2 1](https://user-images.githubusercontent.com/20175659/165183683-03731917-99eb-4d0d-855b-8f969503f6bb.png)
 
 - ## CSMA 214 Applied Mathematics - Michael Peguero - Spring 2022
-#### Taking this course exposed me algorithmic thinking and mathematical logic in the context of computation. We explored the applications of flocking/swarming simulations as well as genetic algorithms that learn from previous inputs. The core concept of this class is deriving an issue and solving it algorithmically. For my fianl assignment I created a Shopping Sjimulation in Unity that combined various algorithms and methods to create an abstracted shopping mall experience.
+#### Taking this course exposed me algorithmic thinking and mathematical logic in the context of computation. We explored the applications of flocking/swarming simulations, factorials and nChooseK, Game of Life, and the Mandelbrot algorithm. The core concept of this class is deriving an issue and solving it algorithmically. For my fianl assignment I created a Shopping Sjimulation in Unity that combined various algorithms and methods to create an abstracted shopping mall experience.
 
   - Flocking Simulation
 ####
