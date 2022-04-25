@@ -78,17 +78,21 @@
 
 ![Screenshot 2022-02-28 072954](https://user-images.githubusercontent.com/20175659/156011002-3eab02e9-2bb5-42cf-b955-85ba8f5802dd.png)
 
- - Deep Space Experience Midterm Assignment : In this midterm assignment, we developed a spacial installation that uses color, light, and space. The assigment required that we have a clear idea of where this installation would take place and who it is for. We were also tasked with using something other than flat or 2D screens for the bulk of the visual content. My assignment was called the Deep Space Experience and is a full-room installation meant to take place at the California Science Center, specifically, the Stars and Telescopes Exhibit. The format of the visual content is floor projection lights, clear plastic strips suspended from the ceiling, and mirror walls. Free use visuals of space travel simulations are used to immerse user in what should feel like a vaccum in space.
+ - Deep Space Experience Midterm Assignment
+#### In this midterm assignment, we developed a spacial installation that uses color, light, and space. The assigment required that we have a clear idea of where this installation would take place and who it is for. We were also tasked with using something other than flat or 2D screens for the bulk of the visual content. My assignment was called the Deep Space Experience and is a full-room installation meant to take place at the California Science Center, specifically, the Stars and Telescopes Exhibit. The format of the visual content is floor projection lights, clear plastic strips suspended from the ceiling, and mirror walls. Free use visuals of space travel simulations are used to immerse user in what should feel like a vaccum in space.
 
 ![Deep_Space_Experience_video 1_Moment](https://user-images.githubusercontent.com/20175659/165182419-70d55ffd-66d0-497e-9ded-91c7fbf9e862.jpg)
 
-- Gestural Grafitti : For my final assignment I am going to use kinect spatial sensors the implement what I refer to as gestural grafitti on what at first glance appears to be a blank wall. Users will use both hands to do actions like draw, erase, change color, and save their image.
+- Gestural Grafitti
+#### For my final assignment I am going to use kinect spatial sensors the implement what I refer to as gestural grafitti on what at first glance appears to be a blank wall. Users will use both hands to do actions like draw, erase, change color, and save their image.
 
 
 - ## CSMA 213 Artificial Intelligence - Nikita Pashenkov - Spring 2022
 #### This class has taught me some of the principles and algorithms that govern machine and deep learning. We explored concepts like search algorithms, evolutionary algorithms, swarm intelligence, and model training. We endede the semester exploring generative neural network models on public notebooks in places like google colab and Hugging face. Our final project consisted of us creating our own GAN that gets trained on models to generate an output. My assignment was fed models of Ukiyo-E style portraits and generates an output that resembles that art style with the inputted image.
 
-  - Hugging FAce GAN Exploration
+  - Hugging Face GAN Exploration
+
+####
 ![input1](https://user-images.githubusercontent.com/20175659/165183556-28f0fdb4-f3e9-46aa-b9dc-7d8dc8248546.jpg)
 ![output1](https://user-images.githubusercontent.com/20175659/165183610-89859d50-0ced-4a51-90a3-c8ae93c8ae55.jpg)
 ![input3](https://user-images.githubusercontent.com/20175659/165183631-6a4ce66e-db31-4bbe-ae86-caeef54a3c33.jpg)
