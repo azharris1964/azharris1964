@@ -16,6 +16,8 @@
 
 ![Curtain 2 Screencap](https://user-images.githubusercontent.com/20175659/155985967-0ee5f0e5-fe2c-414d-be96-bc9e230c8ed6.png)
 
+  - Operation Jukebox
+
   - GitHub Web Design (Major Project)
 
 ![Screenshot 2022-02-28 045628](https://user-images.githubusercontent.com/20175659/155987286-2d10c64d-fbfe-48d3-a178-3af05b75600b.png)
@@ -48,7 +50,7 @@
 - ## CSMA 112 Interactive Prototyping - Gottfried Haider - Spring 2021
 #### In this course I learned got a hands-on introduction into prototype creation and design. We learned practical electronics knowledge along with programming in Python to develop working prototypes. We got to use microcomputers, sensors, fabrication software, LEDs. and more to establish interactions between users and these objects.
 
- -  Analog Input Project 
+ - Analog Input Project 
 
 ![Asssignment 4 Picture and Description Armontae Harris-01](https://user-images.githubusercontent.com/20175659/155996978-06bc14f6-40c7-4ae5-91ad-a6e87347d480.png)
 
@@ -101,6 +103,10 @@
 ![input2](https://user-images.githubusercontent.com/20175659/165183659-9c224709-58d6-4897-bfab-d9e420751e82.jpg)
 ![output2 1](https://user-images.githubusercontent.com/20175659/165183683-03731917-99eb-4d0d-855b-8f969503f6bb.png)
 
+  - Ukiyo-E GAN
+
+![output2 1](https://user-images.githubusercontent.com/20175659/165183683-03731917-99eb-4d0d-855b-8f969503f6bb.png)
+
 - ## CSMA 214 Applied Mathematics - Michael Peguero - Spring 2022
 #### Taking this course exposed me algorithmic thinking and mathematical logic in the context of computation. We explored the applications of flocking/swarming simulations, factorials and nChooseK, Game of Life, and the Mandelbrot algorithm. The core concept of this class is deriving an issue and solving it algorithmically. For my final assignment I created a Shopping Simulation in Unity that combined various algorithms and methods to create an abstracted shopping mall experience.
 
@@ -110,6 +116,9 @@
 
   - Evolution Algorithm
 
+![HarrisA_EvolutionAlgorithm_Movement_Moment](https://user-images.githubusercontent.com/20175659/156014789-8ef02bda-cbf6-451f-b2f8-fb37599ec380.jpg)
+
+  - Shopping Simulation
 ![HarrisA_EvolutionAlgorithm_Movement_Moment](https://user-images.githubusercontent.com/20175659/156014789-8ef02bda-cbf6-451f-b2f8-fb37599ec380.jpg)
 
 - ## MDST 306 Radio in the Age of the Internet - Mark McNeill - Fall 2022
@@ -131,9 +140,7 @@
 
 ![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
 
-  - Evolution Algorithm
 
-![HarrisA_EvolutionAlgorithm_Movement_Moment](https://user-images.githubusercontent.com/20175659/156014789-8ef02bda-cbf6-451f-b2f8-fb37599ec380.jpg)
 
 - ## GAME 114 Game Engine Fundamentals - Cory Sayles - Spring 2023
 #### In this class, we worked on Mapping Burbank. Mapping Burbankis a story-based, self-guided digitalapplication tour and gallery presentation of the community of Burbank. Mapping Burbank showcases stories that have been eclipsed by the world-wide acclaim of film and television industry, along with monuments about Burbank. Using a combination of augmented reality, sound, and photography, Mapping Burbank will present visions of a multi-layered community that is rich in history, ecology, and culture. The gallery section will present visions for monuments that are intended to spark the viewers’ imagination about rethinking collective memory. 
@@ -158,35 +165,45 @@
 - ## GAME 140 Environment Design and Modeling - Cory Sayles - Fall 2023
 #### In this class, we worked on Mapping Burbank. Mapping Burbankis a story-based, self-guided digitalapplication tour and gallery presentation of the community of Burbank. Mapping Burbank showcases stories that have been eclipsed by the world-wide acclaim of film and television industry, along with monuments about Burbank. Using a combination of augmented reality, sound, and photography, Mapping Burbank will present visions of a multi-layered community that is rich in history, ecology, and culture. The gallery section will present visions for monuments that are intended to spark the viewers’ imagination about rethinking collective memory. 
 
-  - Abandoned Arcade Scene
+  - Arcade Machine
 
 ![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
 
-  - Evolution Algorithm
+  - Skeeball Machine
+
+![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+
+  - Mallow Weed (Foliage)
+
+![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+
+  - Candy Machine
+
+![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+
+  - Modular Walls
+
+![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+
+  - Abandoned Arcade Scene
 
 ![HarrisA_EvolutionAlgorithm_Movement_Moment](https://user-images.githubusercontent.com/20175659/156014789-8ef02bda-cbf6-451f-b2f8-fb37599ec380.jpg)
 
 - ## CSMA 401 Thesis 1 - Echo Theohar - Fall 2023
 #### In this class, we worked on Mapping Burbank. Mapping Burbankis a story-based, self-guided digitalapplication tour and gallery presentation of the community of Burbank. Mapping Burbank showcases stories that have been eclipsed by the world-wide acclaim of film and television industry, along with monuments about Burbank. Using a combination of augmented reality, sound, and photography, Mapping Burbank will present visions of a multi-layered community that is rich in history, ecology, and culture. The gallery section will present visions for monuments that are intended to spark the viewers’ imagination about rethinking collective memory. 
 
-  - Flocking Simulation
+  - Thesis Concept Presentation
 
 ![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
 
-  - Evolution Algorithm
-
-![HarrisA_EvolutionAlgorithm_Movement_Moment](https://user-images.githubusercontent.com/20175659/156014789-8ef02bda-cbf6-451f-b2f8-fb37599ec380.jpg)
 
 - ## CSMA 400 Research Seminar - Mark Ericson - Fall 2023
 #### In this class, we worked on Mapping Burbank. Mapping Burbankis a story-based, self-guided digitalapplication tour and gallery presentation of the community of Burbank. Mapping Burbank showcases stories that have been eclipsed by the world-wide acclaim of film and television industry, along with monuments about Burbank. Using a combination of augmented reality, sound, and photography, Mapping Burbank will present visions of a multi-layered community that is rich in history, ecology, and culture. The gallery section will present visions for monuments that are intended to spark the viewers’ imagination about rethinking collective memory. 
 
-  - Flocking Simulation
+  - MazeVoid Concept Analysis/Catalogue
 
 ![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
 
-  - Evolution Algorithm
-
-![HarrisA_EvolutionAlgorithm_Movement_Moment](https://user-images.githubusercontent.com/20175659/156014789-8ef02bda-cbf6-451f-b2f8-fb37599ec380.jpg)
 
 - ## CSMA 402 Thesis 2 - Echo Theohar - Spring 2024
 #### In this class, we worked on Mapping Burbank. Mapping Burbankis a story-based, self-guided digitalapplication tour and gallery presentation of the community of Burbank. Mapping Burbank showcases stories that have been eclipsed by the world-wide acclaim of film and television industry, along with monuments about Burbank. Using a combination of augmented reality, sound, and photography, Mapping Burbank will present visions of a multi-layered community that is rich in history, ecology, and culture. The gallery section will present visions for monuments that are intended to spark the viewers’ imagination about rethinking collective memory. 
@@ -195,8 +212,5 @@
 
 ![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
 
-  - Evolution Algorithm
-
-![HarrisA_EvolutionAlgorithm_Movement_Moment](https://user-images.githubusercontent.com/20175659/156014789-8ef02bda-cbf6-451f-b2f8-fb37599ec380.jpg)
-
+ 
 
