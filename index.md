@@ -25,21 +25,21 @@
 #### The objective of this course was to explore 3-dimensional space using computation. In practice, we used manipulated sphere algorithms to create unique 3D objects. We explored methods of 3-D rendering first in processing, then in Rhino. For my final project I developed a plugin in Rhino that developed unique objects based on mood that can be named, animated, and saved.
 
   - Round Drawings
- #### We learned about drawing spheres and the fundamentals of drawing using computation in Processing.
+#### We learned about drawing spheres and the fundamentals of drawing using computation in Processing.
  
 ![Birth of a Star](https://user-images.githubusercontent.com/20175659/155989519-993b19db-d14e-4914-8984-3da819d49c3d.png)
 
 ![Vital Signs](https://user-images.githubusercontent.com/20175659/155991883-40df37c3-9b64-4638-91eb-b02e89ac7369.png)
 
   - Round Objects
- #### We built on the drawing techniques we learned earlier to draw our circles as spheres. We learned how to manipulate color and line attributes. Around this time we migrated to Rhino with the Python editor and began making some really complex shapes.
+#### We built on the drawing techniques we learned earlier to draw our circles as spheres. We learned how to manipulate color and line attributes. Around this time we migrated to Rhino with the Python editor and began making some really complex shapes.
 
 ![Object 3 isometric view](https://user-images.githubusercontent.com/20175659/155990863-c7882add-81dc-4c11-83b8-62ffc73d00d7.png)
 
 ![Color Object 2 Iso](https://user-images.githubusercontent.com/20175659/155990439-5ed571b6-45cc-485e-bcb3-e4b55ec036af.png)
 
  - Round Worlds 
- ##### In this final project, we developed a conceptual algorithm that created a shape based on a set of questions. I made my shapes change their forms and color based on questions relating to the user's mood. The shape could also be named, have an animation applied to it, and save itself to a folder as an image and small .mp4. Some of the shapes made by classmates who ran the program are here:
+##### In this final project, we developed a conceptual algorithm that created a shape based on a set of questions. I made my shapes change their forms and color based on questions relating to the user's mood. The shape could also be named, have an animation applied to it, and save itself to a folder as an image and small .mp4. Some of the shapes made by classmates who ran the program are here:
  
 ![GreyWave50_50_5Color  A=255, R=50, G=50, B=50](https://user-images.githubusercontent.com/20175659/155991357-6ace31fa-2a66-46c0-a582-40a5574a622c.png)
 
@@ -89,12 +89,10 @@
 - Gestural Grafitti
 #### For my final assignment I am going to use kinect spatial sensors the implement what I refer to as gestural grafitti on what at first glance appears to be a blank wall. Users will use both hands to do actions like draw, erase, change color, and save their image.
 
-
 - ## CSMA 213 Artificial Intelligence - Nikita Pashenkov - Spring 2022
 #### This class has taught me some of the principles and algorithms that govern machine and deep learning. We explored concepts like search algorithms, evolutionary algorithms, swarm intelligence, and model training. We endede the semester exploring generative neural network models on public notebooks in places like google colab and Hugging face. Our final project consisted of us creating our own GAN that gets trained on models to generate an output. My assignment was fed models of Ukiyo-E style portraits and generates an output that resembles that art style with the inputted image.
 
   - Hugging Face GAN Exploration
-
 
 ![input1](https://user-images.githubusercontent.com/20175659/165183556-28f0fdb4-f3e9-46aa-b9dc-7d8dc8248546.jpg)
 ![output1](https://user-images.githubusercontent.com/20175659/165183610-89859d50-0ced-4a51-90a3-c8ae93c8ae55.jpg)
@@ -107,6 +105,93 @@
 #### Taking this course exposed me algorithmic thinking and mathematical logic in the context of computation. We explored the applications of flocking/swarming simulations, factorials and nChooseK, Game of Life, and the Mandelbrot algorithm. The core concept of this class is deriving an issue and solving it algorithmically. For my final assignment I created a Shopping Simulation in Unity that combined various algorithms and methods to create an abstracted shopping mall experience.
 
   - Flocking Simulation
+
+![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+
+  - Evolution Algorithm
+
+![HarrisA_EvolutionAlgorithm_Movement_Moment](https://user-images.githubusercontent.com/20175659/156014789-8ef02bda-cbf6-451f-b2f8-fb37599ec380.jpg)
+
+- ## MDST 306 Radio in the Age of the Internet - Mark McNeill - Fall 2022
+#### Taking this course exposed me algorithmic thinking and mathematical logic in the context of computation. We explored the applications of flocking/swarming simulations, factorials and nChooseK, Game of Life, and the Mandelbrot algorithm. The core concept of this class is deriving an issue and solving it algorithmically. For my final assignment I created a Shopping Simulation in Unity that combined various algorithms and methods to create an abstracted shopping mall experience.
+
+  - Field Recording Experiment
+#### For this assignment I created an abstracted game show in the vain of shows like Squid Game, where the virtual user answers yes or no questions by crossing the halfway point of the marked experience borders.
+
+![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+
+  - Cyber Revolution Network
+
+![HarrisA_EvolutionAlgorithm_Movement_Moment](https://user-images.githubusercontent.com/20175659/156014789-8ef02bda-cbf6-451f-b2f8-fb37599ec380.jpg)
+
+- ## CSMA 311 Design Technology Exploration - Echo Theohar - Spring 2023
+#### In this class, we worked on Mapping Burbank. Mapping Burbankis a story-based, self-guided digitalapplication tour and gallery presentation of the community of Burbank. Mapping Burbank showcases stories that have been eclipsed by the world-wide acclaim of film and television industry, along with monuments about Burbank. Using a combination of augmented reality, sound, and photography, Mapping Burbank will present visions of a multi-layered community that is rich in history, ecology, and culture. The gallery section will present visions for monuments that are intended to spark the viewers’ imagination about rethinking collective memory. 
+
+  - Mapping Burbank
+
+![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+
+  - Evolution Algorithm
+
+![HarrisA_EvolutionAlgorithm_Movement_Moment](https://user-images.githubusercontent.com/20175659/156014789-8ef02bda-cbf6-451f-b2f8-fb37599ec380.jpg)
+
+- ## GAME 114 Game Engine Fundamentals - Cory Sayles - Spring 2023
+#### In this class, we worked on Mapping Burbank. Mapping Burbankis a story-based, self-guided digitalapplication tour and gallery presentation of the community of Burbank. Mapping Burbank showcases stories that have been eclipsed by the world-wide acclaim of film and television industry, along with monuments about Burbank. Using a combination of augmented reality, sound, and photography, Mapping Burbank will present visions of a multi-layered community that is rich in history, ecology, and culture. The gallery section will present visions for monuments that are intended to spark the viewers’ imagination about rethinking collective memory. 
+
+  - Desolate Echo - Survival Horror RPG
+
+![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+
+![HarrisA_EvolutionAlgorithm_Movement_Moment](https://user-images.githubusercontent.com/20175659/156014789-8ef02bda-cbf6-451f-b2f8-fb37599ec380.jpg)
+
+- ## GDES 315 Interaction Design 2 - Artyom Koburyan - Spring 2023
+#### In this class, we worked on Mapping Burbank. Mapping Burbankis a story-based, self-guided digitalapplication tour and gallery presentation of the community of Burbank. Mapping Burbank showcases stories that have been eclipsed by the world-wide acclaim of film and television industry, along with monuments about Burbank. Using a combination of augmented reality, sound, and photography, Mapping Burbank will present visions of a multi-layered community that is rich in history, ecology, and culture. The gallery section will present visions for monuments that are intended to spark the viewers’ imagination about rethinking collective memory. 
+
+  - Web Store Interface
+
+![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+
+  - Evolution Algorithm
+
+![HarrisA_EvolutionAlgorithm_Movement_Moment](https://user-images.githubusercontent.com/20175659/156014789-8ef02bda-cbf6-451f-b2f8-fb37599ec380.jpg)
+
+- ## GAME 140 Environment Design and Modeling - Cory Sayles - Fall 2023
+#### In this class, we worked on Mapping Burbank. Mapping Burbankis a story-based, self-guided digitalapplication tour and gallery presentation of the community of Burbank. Mapping Burbank showcases stories that have been eclipsed by the world-wide acclaim of film and television industry, along with monuments about Burbank. Using a combination of augmented reality, sound, and photography, Mapping Burbank will present visions of a multi-layered community that is rich in history, ecology, and culture. The gallery section will present visions for monuments that are intended to spark the viewers’ imagination about rethinking collective memory. 
+
+  - Abandoned Arcade Scene
+
+![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+
+  - Evolution Algorithm
+
+![HarrisA_EvolutionAlgorithm_Movement_Moment](https://user-images.githubusercontent.com/20175659/156014789-8ef02bda-cbf6-451f-b2f8-fb37599ec380.jpg)
+
+- ## CSMA 401 Thesis 1 - Echo Theohar - Fall 2023
+#### In this class, we worked on Mapping Burbank. Mapping Burbankis a story-based, self-guided digitalapplication tour and gallery presentation of the community of Burbank. Mapping Burbank showcases stories that have been eclipsed by the world-wide acclaim of film and television industry, along with monuments about Burbank. Using a combination of augmented reality, sound, and photography, Mapping Burbank will present visions of a multi-layered community that is rich in history, ecology, and culture. The gallery section will present visions for monuments that are intended to spark the viewers’ imagination about rethinking collective memory. 
+
+  - Flocking Simulation
+
+![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+
+  - Evolution Algorithm
+
+![HarrisA_EvolutionAlgorithm_Movement_Moment](https://user-images.githubusercontent.com/20175659/156014789-8ef02bda-cbf6-451f-b2f8-fb37599ec380.jpg)
+
+- ## CSMA 400 Research Seminar - Mark Ericson - Fall 2023
+#### In this class, we worked on Mapping Burbank. Mapping Burbankis a story-based, self-guided digitalapplication tour and gallery presentation of the community of Burbank. Mapping Burbank showcases stories that have been eclipsed by the world-wide acclaim of film and television industry, along with monuments about Burbank. Using a combination of augmented reality, sound, and photography, Mapping Burbank will present visions of a multi-layered community that is rich in history, ecology, and culture. The gallery section will present visions for monuments that are intended to spark the viewers’ imagination about rethinking collective memory. 
+
+  - Flocking Simulation
+
+![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+
+  - Evolution Algorithm
+
+![HarrisA_EvolutionAlgorithm_Movement_Moment](https://user-images.githubusercontent.com/20175659/156014789-8ef02bda-cbf6-451f-b2f8-fb37599ec380.jpg)
+
+- ## CSMA 402 Thesis 2 - Echo Theohar - Spring 2024
+#### In this class, we worked on Mapping Burbank. Mapping Burbankis a story-based, self-guided digitalapplication tour and gallery presentation of the community of Burbank. Mapping Burbank showcases stories that have been eclipsed by the world-wide acclaim of film and television industry, along with monuments about Burbank. Using a combination of augmented reality, sound, and photography, Mapping Burbank will present visions of a multi-layered community that is rich in history, ecology, and culture. The gallery section will present visions for monuments that are intended to spark the viewers’ imagination about rethinking collective memory. 
+
+  - MazeVoid
 
 ![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
 
