@@ -204,7 +204,6 @@
 
 ![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
 
-
 - ## CSMA 402 Thesis 2 - Echo Theohar - Spring 2024
 #### In this class, we worked on Mapping Burbank. Mapping Burbankis a story-based, self-guided digitalapplication tour and gallery presentation of the community of Burbank. Mapping Burbank showcases stories that have been eclipsed by the world-wide acclaim of film and television industry, along with monuments about Burbank. Using a combination of augmented reality, sound, and photography, Mapping Burbank will present visions of a multi-layered community that is rich in history, ecology, and culture. The gallery section will present visions for monuments that are intended to spark the viewers’ imagination about rethinking collective memory. 
 
