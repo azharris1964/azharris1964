@@ -119,7 +119,7 @@
 - ## MDST 306 Radio in the Age of the Internet - Mark McNeill - Fall 2022
 #### Taking this course exposed me to theory	and	technique	of	radio,	as	both	a	terrestrial	and	internet	medium,	with	a	focus	on	the	role	of	radio	in	positively transforming	communities.	The	course	began	with	a	hands-on	introduc on	to	industry-standard	broadcast	production tools. My final was a fully formed	radio	episode that led to the creation of my ongoing college radio show "Cyber Revolution Network".
 
-  - ![Field Recording Experiment ](https://github.com/azharris1964/azharris1964/raw/main/MDST%20306%20Radio%20in%20the%20Age%20of%20the%20Internet/Time%20at%20Home.mp4)
+- ![Field Recording Experiment ](https://github.com/azharris1964/azharris1964/raw/main/MDST%20306%20Radio%20in%20the%20Age%20of%20the%20Internet/Time%20at%20Home.mp4)
 #### For this assignment I found 3 sounds to express soft, hard, and surprise emotions.
 
 
