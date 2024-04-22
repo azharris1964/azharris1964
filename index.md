@@ -127,7 +127,7 @@
   - [Cyber Revolution Network](https://github.com/azharris1964/azharris1964/raw/main/MDST%20306%20Radio%20in%20the%20Age%20of%20the%20Internet/Cyber_Rev.mp4)
 #### One of the latest iterations of my show. It now includes a live video component broadcasted through Twitch.
 
-[](https://github.com/azharris1964/azharris1964/assets/20175659/dbfc1adf-9466-4995-8782-0ac2960f2dd1)
+![](https://github.com/azharris1964/azharris1964/assets/20175659/dbfc1adf-9466-4995-8782-0ac2960f2dd1)
 
 - ## CSMA 302 Media Programming II - Arash Soleimani - Fall 2022
 #### Taking this course introduced me to computational thinking and the fundamental concepts of computation through explorations with advanced generative scripting and parametric tools. The goal was to understand the potential of computation and the role it can play as part of one’s design process; not as a collection of specific tools, but as a way of thinking about design. My final project was a study if Form Optimization Using Evolutionary Computation in Rhino3d.
