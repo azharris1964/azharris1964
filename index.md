@@ -151,14 +151,16 @@
 
   - Flocking Simulation
 
-![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+![Flocking_Sim](https://github.com/azharris1964/azharris1964/assets/20175659/ff53c72d-6d55-4d26-ad62-a9ed8b8b114f)
+
 
   - Evolution Algorithm
 
-![HarrisA_EvolutionAlgorithm_Movement_Moment](https://user-images.githubusercontent.com/20175659/156014789-8ef02bda-cbf6-451f-b2f8-fb37599ec380.jpg)
+![Evolution_Sim](https://github.com/azharris1964/azharris1964/assets/20175659/9498fccf-b094-4058-b02a-e47249394332)
 
   - Shopping Simulation
-![HarrisA_EvolutionAlgorithm_Movement_Moment](https://user-images.githubusercontent.com/20175659/156014789-8ef02bda-cbf6-451f-b2f8-fb37599ec380.jpg)
+
+![Shopping_Sim](https://github.com/azharris1964/azharris1964/assets/20175659/3a4f0119-2b97-4de8-90a8-f8b1f286b710)
 
 - ## CSMA 213 Artificial Intelligence - Nikita Pashenkov - Spring 2022
 #### This class has taught me some of the principles and algorithms that govern machine and deep learning. We explored concepts like search algorithms, evolutionary algorithms, swarm intelligence, and model training. We endede the semester exploring generative neural network models on public notebooks in places like google colab and Hugging face. Our final project consisted of us creating our own GAN that gets trained on models to generate an output. My assignment was fed models of Ukiyo-E style portraits and generates an output that resembles that art style with the inputted image.
