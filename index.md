@@ -119,22 +119,20 @@
 - ## MDST 306 Radio in the Age of the Internet - Mark McNeill - Fall 2022
 #### Taking this course exposed me to theory	and	technique	of	radio,	as	both	a	terrestrial	and	internet	medium,	with	a	focus	on	the	role	of	radio	in	positively transforming	communities.	The	course	began	with	a	hands-on	introduc on	to	industry-standard	broadcast	production tools. My final was a fully formed	radio	episode that led to the creation of my ongoing college radio show "Cyber Revolution Network".
 
-  - Field Recording Experiment
+  - ![Field Recording Experiment ](https://github.com/azharris1964/azharris1964/raw/main/MDST%20306%20Radio%20in%20the%20Age%20of%20the%20Internet/Time%20at%20Home.mp4)
 #### For this assignment I found 3 sounds to express soft, hard, and surprise emotions.
 
-![](https://github.com/azharris1964/azharris1964/raw/main/MDST%20306%20Radio%20in%20the%20Age%20of%20the%20Internet/Time%20at%20Home.mp4)
 
- - Vox Pop
+
+ - ![Vox Pop](https://github.com/azharris1964/azharris1964/raw/main/MDST%20306%20Radio%20in%20the%20Age%20of%20the%20Internet/Cyber_Rev_Vox_Pop.mp4)
 #### For this assignment I interviewed some of my peers to get their opinions on dance music.
 
-![](https://github.com/azharris1964/azharris1964/raw/main/MDST%20306%20Radio%20in%20the%20Age%20of%20the%20Internet/Cyber_Rev_Vox_Pop.mp4)
 
-  - Cyber Revolution Network
+
+  - ![Cyber Revolution Network](https://github.com/azharris1964/azharris1964/raw/main/MDST%20306%20Radio%20in%20the%20Age%20of%20the%20Internet/Cyber_Rev.mp4)
 #### One of the latest iterations of my show. It now includes a live video component broadcasted through Twitch.
 
 ![](https://github.com/azharris1964/azharris1964/assets/20175659/dbfc1adf-9466-4995-8782-0ac2960f2dd1)
-
-![](https://github.com/azharris1964/azharris1964/raw/main/MDST%20306%20Radio%20in%20the%20Age%20of%20the%20Internet/Cyber_Rev.mp4)
 
 - ## CSMA 302 Media Programming II - Arash Soleimani - Fall 2022
 #### Taking this course introduced me to computational thinking and the fundamental concepts of computation through explorations with advanced generative scripting and parametric tools. The goal was to understand the potential of computation and the role it can play as part of one’s design process; not as a collection of specific tools, but as a way of thinking about design. My final project was a study if Form Optimization Using Evolutionary Computation in Rhino3d.
