@@ -7,111 +7,114 @@
 
   - MazeVoid Gameplay Showcase
 
-![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+![MazeVoid_Gameplay_Showcase](https://github.com/azharris1964/azharris1964/assets/20175659/3a256a2a-d61f-49eb-ba90-01030a86ec90)
 
-![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+![Screenshot (78)](https://github.com/azharris1964/azharris1964/assets/20175659/fe0b756c-ba91-47db-b752-ebdfcaca7bd8)
 
-![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
- 
+![Screenshot (79)](https://github.com/azharris1964/azharris1964/assets/20175659/b003bacc-bc5a-44ff-b4c2-31918982ec0c)
+
 - ## CSMA 400 Research Seminar - Mark Ericson - Fall 2023
 #### In this class, we explored and analyzed the theoretical, historical, and cultural contexts of digital media within a range of creative disciplines, including narrative visual media and games. We developed strong visual communication skills and design aesthetics, projects from concept to fruition, including execution, implementation, and exhibition, and created a substantial body of original work that showcases a unique creative voice.
 
   - Dynamic Difficulty Graph
 
-![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+![Dynamic Difficulty Graph-01](https://github.com/azharris1964/azharris1964/assets/20175659/32dc9aca-5bd2-4903-9dc2-dd41813faa0b)
+
 
   - Dynamic Difficulty Timeline
 
-![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+![Dynamic Difficulty Timeline-02-02](https://github.com/azharris1964/azharris1964/assets/20175659/21f40c62-4cd0-4f76-9d74-0494d4abbc80)
+
 
 - ## CSMA 401 Thesis 1 - Echo Theohar - Fall 2023
 #### In this class, we began the development of our student-led Senior Thesis projects with a focus on technological explorations and functional prototyping of individually-developed software, hardware and/or mixed media prototypes. The project I created is called "MazeVoid", a PSX-style PC game exploring the integration of adaptive AI systems and dynamic difficulty mechanisms in horror game design. This was intended to be a study in player engagement and experience enhancement.
 
   - Thesis Concept Board
 
-![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+![MazeVoid Concept Boards-01](https://github.com/azharris1964/azharris1964/assets/20175659/806c37d8-9ae0-472a-8c32-cae5bed8ecdc)
 
   - MazeVoid Concept Demo
 
-![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+![MazeVoid_Concept_Demo_1](https://github.com/azharris1964/azharris1964/assets/20175659/471abc2b-80ec-4bfa-b66e-da18fcc60e72)
 
   - Test Environment
+    
+![Screenshot (19)](https://github.com/azharris1964/azharris1964/assets/20175659/3f9e47cb-8cab-4240-bbbe-531dc94fc7d5)
 
-![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
-
-![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+![Screenshot (20)](https://github.com/azharris1964/azharris1964/assets/20175659/97d7c6dc-e473-45fb-88cc-cfd6c35f4257)
 
 - ## GAME 140 Environment Design and Modeling - Cory Sayles - Fall 2023
 #### In this class, we worked on Mapping Burbank. Mapping Burbankis a story-based, self-guided digitalapplication tour and gallery presentation of the community of Burbank. Mapping Burbank showcases stories that have been eclipsed by the world-wide acclaim of film and television industry, along with monuments about Burbank. Using a combination of augmented reality, sound, and photography, Mapping Burbank will present visions of a multi-layered community that is rich in history, ecology, and culture. The gallery section will present visions for monuments that are intended to spark the viewers’ imagination about rethinking collective memory. 
 
   - Arcade Machine
 
-![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+![Arcade_Machine_001](https://github.com/azharris1964/azharris1964/assets/20175659/339719fd-5e28-4683-91d5-be10c45dce74)
 
   - Skeeball Machine
 
-![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+![Game140_HarrisA_FA22_02_Large_Diffuse](https://github.com/azharris1964/azharris1964/assets/20175659/b49e88bc-1849-4f24-a329-1965b0fbfb73)
+
 
   - Mallow Weed (Foliage)
 
-![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+![Game140_HarrisA_FA22_03_Foliage_Diffuse](https://github.com/azharris1964/azharris1964/assets/20175659/6bff4d22-89d9-4c98-93de-2ae3f736bef2)
 
   - Candy Machine
 
-![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+![Game140_HarrisA_FA22_04_Custom_Diffuse](https://github.com/azharris1964/azharris1964/assets/20175659/c0a3af6b-9be8-4b47-91fd-4e3fd660df66)
 
   - Modular Walls
 
-![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+![Game140_HarrisA_FA22_05__Diffuse](https://github.com/azharris1964/azharris1964/assets/20175659/87ce3672-5eff-47c7-a65a-e783ad6d2811)
 
 - Level Flythrough
 
-![HarrisA_EvolutionAlgorithm_Movement_Moment](https://user-images.githubusercontent.com/20175659/156014789-8ef02bda-cbf6-451f-b2f8-fb37599ec380.jpg)
+![Flythrough_Sped_Up](https://github.com/azharris1964/azharris1964/assets/20175659/9ef052bb-dcfa-4016-ab0b-6ffb460baa6c)
 
 - ## GDES 315 Interaction Design 2 - Artyom Koburyan - Spring 2023
 #### In this class, we explored the design of web-based user interface applications across multiple devices. Emphasis was placed on the design of navigational structures and systems, audience, organization of information and access to web applications. These applications and structures were evaluated for their responsiveness and usability across multiple devices. I created a hub to showcase all of my projects, design work, and music.
 
 - Product Mock-Ups
+![SH2 Mockup 1 Front_compressed](https://github.com/azharris1964/azharris1964/assets/20175659/f934daa5-363d-4634-9016-5fe319a139e5)
 
-![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+![SH2 Mockup 1 Back_compressed](https://github.com/azharris1964/azharris1964/assets/20175659/91213894-13c7-4177-88de-873216b6c9ed)
 
-![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+![SH2 Mockup 2 Crewnack Black](https://github.com/azharris1964/azharris1964/assets/20175659/dff3cb89-5167-47d4-ab7c-5a2ab4aa4cbf)
 
-![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+![SH3 Mockup 1 Crewnack Black-min](https://github.com/azharris1964/azharris1964/assets/20175659/c688fb12-a6f8-4ae0-9c8a-2fadbaaf7844)
 
-![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+![SH2 Mockup 2 Crewnack Black Back](https://github.com/azharris1964/azharris1964/assets/20175659/38ca9d8b-2dd1-4434-8a42-a3c16353ae43)
 
-![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+![USB Flash Drive 3](https://github.com/azharris1964/azharris1964/assets/20175659/667fed2b-a904-4064-9ca4-a857d67fff4b)
 
-![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
-
-![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+![USB Flash Drive 2](https://github.com/azharris1964/azharris1964/assets/20175659/eab96f1d-6eca-4a7b-a0ab-8e49a79ed12c)
 
 - Moodboard
 
-![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+![Moodboard-01](https://github.com/azharris1964/azharris1964/assets/20175659/8d79d97f-6713-40e3-a800-f9b4b05f2b5e)
 
 - Web Store Interface
 
-![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+![Webstore_Walkthrough](https://github.com/azharris1964/azharris1964/assets/20175659/f0c7f21a-5247-4da2-a1ca-9cc2112cc671)
+
 
 - ## GAME 114 Game Engine Fundamentals - Cory Sayles - Spring 2023
 #### In this class, we explorated and analyzed visual development tools and reusable software components for game asset creation and management, giving attention to 2D and 3D rendering performance, collision detection, simple scripting, animation, play mechanics, sound and music. For my final I designed and implemented an original game concept and tested for playability and design integrity.
 
   - Desolate Echo - Survival Horror RPG
 
-![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+![Desolate_Echo_Gameplay](https://github.com/azharris1964/azharris1964/assets/20175659/0ffa6884-1363-4ba9-aa75-89e12bd3adb8)
 
-![HarrisA_EvolutionAlgorithm_Movement_Moment](https://user-images.githubusercontent.com/20175659/156014789-8ef02bda-cbf6-451f-b2f8-fb37599ec380.jpg)
+![Screenshot (109)](https://github.com/azharris1964/azharris1964/assets/20175659/8fc5edc9-5b53-440e-9a0a-13c430a5b1d8)
 
-![HarrisA_EvolutionAlgorithm_Movement_Moment](https://user-images.githubusercontent.com/20175659/156014789-8ef02bda-cbf6-451f-b2f8-fb37599ec380.jpg)
+![Screenshot (110)](https://github.com/azharris1964/azharris1964/assets/20175659/c59f1830-f586-49ff-ad01-d92cea74e2d7)
 
 - ## CSMA 311 Design Technology Exploration - Echo Theohar - Spring 2023
 #### In this class, we worked on Mapping Burbank. Mapping Burbankis a story-based, self-guided digitalapplication tour and gallery presentation of the community of Burbank. Mapping Burbank showcases stories that have been eclipsed by the world-wide acclaim of film and television industry, along with monuments about Burbank. Using a combination of augmented reality, sound, and photography, Mapping Burbank will present visions of a multi-layered community that is rich in history, ecology, and culture. The gallery section will present visions for monuments that are intended to spark the viewers’ imagination about rethinking collective memory. 
 
   - Mapping Burbank
 
-![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+![Mapping Burbank1](https://github.com/azharris1964/azharris1964/assets/20175659/693022d4-e2d8-43d3-84b6-7e665dfd3e57)
 
 - ## MDST 306 Radio in the Age of the Internet - Mark McNeill - Fall 2022
 #### Taking this course exposed me to theory	and	technique	of	radio,	as	both	a	terrestrial	and	internet	medium,	with	a	focus	on	the	role	of	radio	in	positively transforming	communities.	The	course	began	with	a	hands-on	introduc on	to	industry-standard	broadcast	production tools. My final was a fully formed	radio	episode that led to the creation of my ongoing college radio show "Cyber Revolution Network".
@@ -119,28 +122,36 @@
   - Field Recording Experiment
 #### For this assignment I found 3 sounds to express soft, hard, and surprise emotions.
 
-![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+![Field Recording Experiment - Time at Home](https://github.com/azharris1964/azharris1964/raw/main/MDST%20306%20Radio%20in%20the%20Age%20of%20the%20Internet/Time%20at%20Home.mp3?raw=true)
 
  - Vox Pop
 #### For this assignment I interviewed some of my peers to get their opinions on dance music.
 
-![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+![Dance Music Vox-Pop](https://github.com/azharris1964/azharris1964/raw/main/MDST%20306%20Radio%20in%20the%20Age%20of%20the%20Internet/Armontae_Harris_Cyber_Revolution_Vox_Pop.wav)
 
   - Cyber Revolution Network
 #### One of the latest iterations of my show. It now includes a live video component broadcasted through Twitch.
 
-![HarrisA_EvolutionAlgorithm_Movement_Moment](https://user-images.githubusercontent.com/20175659/156014789-8ef02bda-cbf6-451f-b2f8-fb37599ec380.jpg)
+![Cyber_Rev_Visuals - Made with Clipchamp](https://github.com/azharris1964/azharris1964/assets/20175659/fbe68ffe-872d-45fa-b103-8a655b143b56)
+
+![Cyber Revolution](https://github.com/azharris1964/azharris1964/raw/main/MDST%20306%20Radio%20in%20the%20Age%20of%20the%20Internet/Cyber_Rev.mp3)
 
 - ## CSMA 302 Media Programming II - Arash Soleimani - Fall 2022
 #### Taking this course introduced me to computational thinking and the fundamental concepts of computation through explorations with advanced generative scripting and parametric tools. The goal was to understand the potential of computation and the role it can play as part of one’s design process; not as a collection of specific tools, but as a way of thinking about design. My final project was a study if Form Optimization Using Evolutionary Computation in Rhino3d.
 
   - Form Optimization Using Evolutionary Computation
+  - 
+![Initial geometry](https://github.com/azharris1964/azharris1964/assets/20175659/472fd96c-d46a-472d-91ef-a27f81be5814)
 
-![Proj-1-Armontae_Harris-Animation_Moment](https://user-images.githubusercontent.com/20175659/156014082-a430a9c3-d298-4d7c-9bbd-88e685712434.jpg)
+<img width="725" alt="Shape Evolution 1st Generation" src="https://github.com/azharris1964/azharris1964/assets/20175659/1f95e087-fab3-48a7-8af8-85811968351a">
 
-![HarrisA_EvolutionAlgorithm_Movement_Moment](https://user-images.githubusercontent.com/20175659/156014789-8ef02bda-cbf6-451f-b2f8-fb37599ec380.jpg)
+![Second geometry](https://github.com/azharris1964/azharris1964/assets/20175659/1ce31f2a-5847-4c90-980c-0064b09790b2)
 
-![HarrisA_EvolutionAlgorithm_Movement_Moment](https://user-images.githubusercontent.com/20175659/156014789-8ef02bda-cbf6-451f-b2f8-fb37599ec380.jpg)
+<img width="725" alt="Second Shape Evolution 1st Generation" src="https://github.com/azharris1964/azharris1964/assets/20175659/78730b67-7ed4-4727-9dd6-1c1876995fcd">
+
+![Third geometry](https://github.com/azharris1964/azharris1964/assets/20175659/51d89805-1409-4d2a-bc24-31c8cde0f322)
+
+<img width="724" alt="Third Shape Evolution 2nd Generation" src="https://github.com/azharris1964/azharris1964/assets/20175659/84fdd52c-f3a7-4a69-824f-0aed3243ece9">
 
 - ## CSMA 214 Applied Mathematics - Michael Peguero - Spring 2022
 #### Taking this course exposed me algorithmic thinking and mathematical logic in the context of computation. We explored the applications of flocking/swarming simulations, factorials and nChooseK, Game of Life, and the Mandelbrot algorithm. The core concept of this class is deriving an issue and solving it algorithmically. For my final assignment I created a Shopping Simulation in Unity that combined various algorithms and methods to create an abstracted shopping mall experience.
