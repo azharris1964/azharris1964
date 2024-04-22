@@ -119,15 +119,11 @@
 - ## MDST 306 Radio in the Age of the Internet - Mark McNeill - Fall 2022
 #### Taking this course exposed me to theory	and	technique	of	radio,	as	both	a	terrestrial	and	internet	medium,	with	a	focus	on	the	role	of	radio	in	positively transforming	communities.	The	course	began	with	a	hands-on	introduc on	to	industry-standard	broadcast	production tools. My final was a fully formed	radio	episode that led to the creation of my ongoing college radio show "Cyber Revolution Network".
 
-- ![Field Recording Experiment ](https://github.com/azharris1964/azharris1964/raw/main/MDST%20306%20Radio%20in%20the%20Age%20of%20the%20Internet/Time%20at%20Home.mp4)
+  - ![Field Recording Experiment ](https://github.com/azharris1964/azharris1964/raw/main/MDST%20306%20Radio%20in%20the%20Age%20of%20the%20Internet/Time%20at%20Home.mp4)
 #### For this assignment I found 3 sounds to express soft, hard, and surprise emotions.
 
-
-
- - ![Vox Pop](https://github.com/azharris1964/azharris1964/raw/main/MDST%20306%20Radio%20in%20the%20Age%20of%20the%20Internet/Cyber_Rev_Vox_Pop.mp4)
+  - ![Vox Pop](https://github.com/azharris1964/azharris1964/raw/main/MDST%20306%20Radio%20in%20the%20Age%20of%20the%20Internet/Cyber_Rev_Vox_Pop.mp4)
 #### For this assignment I interviewed some of my peers to get their opinions on dance music.
-
-
 
   - ![Cyber Revolution Network](https://github.com/azharris1964/azharris1964/raw/main/MDST%20306%20Radio%20in%20the%20Age%20of%20the%20Internet/Cyber_Rev.mp4)
 #### One of the latest iterations of my show. It now includes a live video component broadcasted through Twitch.
@@ -138,7 +134,7 @@
 #### Taking this course introduced me to computational thinking and the fundamental concepts of computation through explorations with advanced generative scripting and parametric tools. The goal was to understand the potential of computation and the role it can play as part of one’s design process; not as a collection of specific tools, but as a way of thinking about design. My final project was a study if Form Optimization Using Evolutionary Computation in Rhino3d.
 
   - Form Optimization Using Evolutionary Computation
-  - 
+
 ![Initial geometry](https://github.com/azharris1964/azharris1964/assets/20175659/472fd96c-d46a-472d-91ef-a27f81be5814)
 
 <img width="725" alt="Shape Evolution 1st Generation" src="https://github.com/azharris1964/azharris1964/assets/20175659/1f95e087-fab3-48a7-8af8-85811968351a">
@@ -189,20 +185,20 @@
 
 ![Screenshot 2022-02-28 072954](https://user-images.githubusercontent.com/20175659/156011002-3eab02e9-2bb5-42cf-b955-85ba8f5802dd.png)
 
- - Deep Space Experience Midterm Assignment
+  - Deep Space Experience Midterm Assignment
 #### In this midterm assignment, we developed a spacial installation that uses color, light, and space. The assigment required that we have a clear idea of where this installation would take place and who it is for. We were also tasked with using something other than flat or 2D screens for the bulk of the visual content. My assignment was called the Deep Space Experience and is a full-room installation meant to take place at the California Science Center, specifically, the Stars and Telescopes Exhibit. The format of the visual content is floor projection lights, clear plastic strips suspended from the ceiling, and mirror walls. Free use visuals of space travel simulations are used to immerse user in what should feel like a vaccum in space.
 
 ![Deep_Space_Experience_video 1_Moment](https://user-images.githubusercontent.com/20175659/165182419-70d55ffd-66d0-497e-9ded-91c7fbf9e862.jpg)
 
-- Gestural Grafitti
+  - Gestural Grafitti
 #### For my final assignment I am going to use kinect spatial sensors the implement what I refer to as gestural grafitti on what at first glance appears to be a blank wall. Users will use both hands to do actions like draw, erase, change color, and save their image.
 
-![Deep_Space_Experience_video 1_Moment](https://user-images.githubusercontent.com/20175659/165182419-70d55ffd-66d0-497e-9ded-91c7fbf9e862.jpg)
+![unnamed (2)](https://github.com/azharris1964/azharris1964/assets/20175659/d9f27a9c-d69d-41fa-aba5-b9d70dfc4c7d)
 
 - ## CSMA 113 Mixed Reality - Michael Peguero - Spring 2021
 #### This class allowed me to expermient with the world of VR and AR in a computational and design framework. This class taught me how to develop VR and AR interactions for tools such as SparkAR, Glitch.io, A-Frame, and finally Unity. We practiced different aspects of computational design and learned the skills to produce media using video processing, motion, and my conceptual aesthetics.
 
- - A-Frame + Glitch.io + SparkAR
+  - A-Frame + Glitch.io + SparkAR
 
 ![ARMONTAE_HARRIS-VD-02_Moment](https://user-images.githubusercontent.com/20175659/156008108-b44d4451-9c41-4446-a8da-c4795e359f12.jpg)
 
@@ -210,7 +206,7 @@
 
 ![Cyber Initiative Facts_Moment](https://user-images.githubusercontent.com/20175659/156008471-d3cea552-72f9-406f-bcf3-efd6b14c9322.jpg)
 
-- Unity Final
+  - Unity Final
 
 ![unity final](https://user-images.githubusercontent.com/20175659/156005815-3ecdb0ce-9cda-4253-8a9a-d2108b81f07a.jpg)
 
@@ -219,11 +215,11 @@
 - ## CSMA 112 Interactive Prototyping - Gottfried Haider - Spring 2021
 #### In this course I learned got a hands-on introduction into prototype creation and design. We learned practical electronics knowledge along with programming in Python to develop working prototypes. We got to use microcomputers, sensors, fabrication software, LEDs. and more to establish interactions between users and these objects.
 
- - Analog Input Project 
+  - Analog Input Project 
 
 ![Asssignment 4 Picture and Description Armontae Harris-01](https://user-images.githubusercontent.com/20175659/155996978-06bc14f6-40c7-4ae5-91ad-a6e87347d480.png)
 
- - Wearable Assignment
+  - Wearable Assignment
 
 ![wifi_judge](https://user-images.githubusercontent.com/20175659/155996750-ea2d70d6-c0b7-4366-8d84-949831522ea9.png)
 
@@ -244,7 +240,7 @@
 
 ![Color Object 2 Iso](https://user-images.githubusercontent.com/20175659/155990439-5ed571b6-45cc-485e-bcb3-e4b55ec036af.png)
 
- - Round Worlds 
+  - Round Worlds 
 ##### In this final project, we developed a conceptual algorithm that created a shape based on a set of questions. I made my shapes change their forms and color based on questions relating to the user's mood. The shape could also be named, have an animation applied to it, and save itself to a folder as an image and small .mp4. Some of the shapes made by classmates who ran the program are here:
  
 ![GreyWave50_50_5Color  A=255, R=50, G=50, B=50](https://user-images.githubusercontent.com/20175659/155991357-6ace31fa-2a66-46c0-a582-40a5574a622c.png)
@@ -253,6 +249,7 @@
 
 - ## CSMA 101 Introduction to Programming - Echo Theohar - Fall 2019
 #### In this course we developed computer generated media using the coding language "P5.js". We coverered essential programming concepts like: variables, inputs, looping, functions, arrays, object based programming, data visualisation, and an introduction into Python and APIs. We ended the semester developing a github site that hosted all of our projects. Mine is still functional. The link is [here!](https://azharris1964.github.io/Harrishosting.github.io/)
+  
   - Variable Exercise  
 
 ![Mapping HW Preview 1](https://user-images.githubusercontent.com/20175659/155985379-f9ba96aa-022b-414e-b90c-7a554f06078a.png)
@@ -266,6 +263,8 @@
 ![Curtain 2 Screencap](https://user-images.githubusercontent.com/20175659/155985967-0ee5f0e5-fe2c-414d-be96-bc9e230c8ed6.png)
 
   - Operation Jukebox
+  - 
+![OperationJukebox](https://github.com/azharris1964/azharris1964/assets/20175659/87b498b5-4521-4024-839d-b68d742d8866)
 
   - GitHub Web Design (Major Project)
 
