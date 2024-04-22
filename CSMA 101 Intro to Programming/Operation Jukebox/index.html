@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Jukebox</title>
+		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+		<script type="text/javascript" src="jukebox.js"></script>
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+	<body>
+		
+		<div class="container">
+			<div class="box box-shell">
+				<div class="box outer-box">
+					<div class="box inner-box">
+						<div class="cd-display"></div>
+						<div class="content">
+							<div id="audio-list">
+								<audio id="player">
+									
+								</audio>
+							</div>
+							<div id="song_directory">
+							</div>
+							<div id="current_song_playing">
+							</div>
+							<div class="controls">
+								<div id="play_song">
+									<a href="#" class="playSong button-3d" onClick="playSong.call(this)"><span class="play-sign">||></span></a>
+								</div>
+								<div id="stop_song">
+									<a href="#" class="stopSong button-3d" onClick="stopSong.call(this)"><span class="play-sign">X</span></a>
+								</div>
+							</div>
+							<div id="next_song">
+								<a href="#" class="queueSong" onClick="queueSong.call(this)"><span class="play-sign">QUEUE</span></a>
+								<div class="help">?</div>
+							</div>
+							<div class="popup">
+								Press the queue button, then make your selection. It will not play until the current song has finished playing.
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
