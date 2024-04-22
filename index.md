@@ -134,7 +134,6 @@
 #### Taking this course introduced me to computational thinking and the fundamental concepts of computation through explorations with advanced generative scripting and parametric tools. The goal was to understand the potential of computation and the role it can play as part of one’s design process; not as a collection of specific tools, but as a way of thinking about design. My final project was a study if Form Optimization Using Evolutionary Computation in Rhino3d.
 
   - Form Optimization Using Evolutionary Computation
-
 ![Initial geometry](https://github.com/azharris1964/azharris1964/assets/20175659/472fd96c-d46a-472d-91ef-a27f81be5814)
 
 <img width="725" alt="Shape Evolution 1st Generation" src="https://github.com/azharris1964/azharris1964/assets/20175659/1f95e087-fab3-48a7-8af8-85811968351a">
