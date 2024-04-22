@@ -48,11 +48,11 @@
 
   - Arcade Machine
 
-![Arcade_Machine_001](https://github.com/azharris1964/azharris1964/assets/20175659/339719fd-5e28-4683-91d5-be10c45dce74)
+[Arcade_Machine_001](https://github.com/azharris1964/azharris1964/assets/20175659/339719fd-5e28-4683-91d5-be10c45dce74)
 
   - Skeeball Machine
 
-![Game140_HarrisA_FA22_02_Large_Diffuse](https://github.com/azharris1964/azharris1964/assets/20175659/b49e88bc-1849-4f24-a329-1965b0fbfb73)
+[Game140_HarrisA_FA22_02_Large_Diffuse](https://github.com/azharris1964/azharris1964/assets/20175659/b49e88bc-1849-4f24-a329-1965b0fbfb73)
 
 
   - Mallow Weed (Foliage)
@@ -61,41 +61,40 @@
 
   - Candy Machine
 
-![Game140_HarrisA_FA22_04_Custom_Diffuse](https://github.com/azharris1964/azharris1964/assets/20175659/c0a3af6b-9be8-4b47-91fd-4e3fd660df66)
+[Game140_HarrisA_FA22_04_Custom_Diffuse](https://github.com/azharris1964/azharris1964/assets/20175659/c0a3af6b-9be8-4b47-91fd-4e3fd660df66)
 
   - Modular Walls
 
-![Game140_HarrisA_FA22_05__Diffuse](https://github.com/azharris1964/azharris1964/assets/20175659/87ce3672-5eff-47c7-a65a-e783ad6d2811)
+[Game140_HarrisA_FA22_05__Diffuse](https://github.com/azharris1964/azharris1964/assets/20175659/87ce3672-5eff-47c7-a65a-e783ad6d2811)
 
 - Level Flythrough
 
-![Flythrough_Sped_Up](https://github.com/azharris1964/azharris1964/assets/20175659/9ef052bb-dcfa-4016-ab0b-6ffb460baa6c)
+[Flythrough_Sped_Up](https://github.com/azharris1964/azharris1964/assets/20175659/9ef052bb-dcfa-4016-ab0b-6ffb460baa6c)
 
 - ## GDES 315 Interaction Design 2 - Artyom Koburyan - Spring 2023
 #### In this class, we explored the design of web-based user interface applications across multiple devices. Emphasis was placed on the design of navigational structures and systems, audience, organization of information and access to web applications. These applications and structures were evaluated for their responsiveness and usability across multiple devices. I created a hub to showcase all of my projects, design work, and music.
 
 - Product Mock-Ups
-![SH2 Mockup 1 Front_compressed](https://github.com/azharris1964/azharris1964/assets/20175659/f934daa5-363d-4634-9016-5fe319a139e5)
+[SH2 Mockup 1 Front_compressed](https://github.com/azharris1964/azharris1964/assets/20175659/f934daa5-363d-4634-9016-5fe319a139e5)
 
-![SH2 Mockup 1 Back_compressed](https://github.com/azharris1964/azharris1964/assets/20175659/91213894-13c7-4177-88de-873216b6c9ed)
+[SH2 Mockup 1 Back_compressed](https://github.com/azharris1964/azharris1964/assets/20175659/91213894-13c7-4177-88de-873216b6c9ed)
 
-![SH2 Mockup 2 Crewnack Black](https://github.com/azharris1964/azharris1964/assets/20175659/dff3cb89-5167-47d4-ab7c-5a2ab4aa4cbf)
-
+[SH2 Mockup 2 Crewnack Black](https://github.com/azharris1964/azharris1964/assets/20175659/dff3cb89-5167-47d4-ab7c-5a2ab4aa4cbf)
 ![SH3 Mockup 1 Crewnack Black-min](https://github.com/azharris1964/azharris1964/assets/20175659/c688fb12-a6f8-4ae0-9c8a-2fadbaaf7844)
 
-![SH2 Mockup 2 Crewnack Black Back](https://github.com/azharris1964/azharris1964/assets/20175659/38ca9d8b-2dd1-4434-8a42-a3c16353ae43)
+[SH2 Mockup 2 Crewnack Black Back](https://github.com/azharris1964/azharris1964/assets/20175659/38ca9d8b-2dd1-4434-8a42-a3c16353ae43)
 
-![USB Flash Drive 3](https://github.com/azharris1964/azharris1964/assets/20175659/667fed2b-a904-4064-9ca4-a857d67fff4b)
+[USB Flash Drive 3](https://github.com/azharris1964/azharris1964/assets/20175659/667fed2b-a904-4064-9ca4-a857d67fff4b)
 
 ![USB Flash Drive 2](https://github.com/azharris1964/azharris1964/assets/20175659/eab96f1d-6eca-4a7b-a0ab-8e49a79ed12c)
 
 - Moodboard
 
-![Moodboard-01](https://github.com/azharris1964/azharris1964/assets/20175659/8d79d97f-6713-40e3-a800-f9b4b05f2b5e)
+[Moodboard-01](https://github.com/azharris1964/azharris1964/assets/20175659/8d79d97f-6713-40e3-a800-f9b4b05f2b5e)
 
 - Web Store Interface
 
-![Webstore_Walkthrough](https://github.com/azharris1964/azharris1964/assets/20175659/f0c7f21a-5247-4da2-a1ca-9cc2112cc671)
+[Webstore_Walkthrough](https://github.com/azharris1964/azharris1964/assets/20175659/f0c7f21a-5247-4da2-a1ca-9cc2112cc671)
 
 
 - ## GAME 114 Game Engine Fundamentals - Cory Sayles - Spring 2023
@@ -103,18 +102,18 @@
 
   - Desolate Echo - Survival Horror RPG
 
-![Desolate_Echo_Gameplay](https://github.com/azharris1964/azharris1964/assets/20175659/0ffa6884-1363-4ba9-aa75-89e12bd3adb8)
+[Desolate_Echo_Gameplay](https://github.com/azharris1964/azharris1964/assets/20175659/0ffa6884-1363-4ba9-aa75-89e12bd3adb8)
 
-![Screenshot (109)](https://github.com/azharris1964/azharris1964/assets/20175659/8fc5edc9-5b53-440e-9a0a-13c430a5b1d8)
+[Screenshot (109)](https://github.com/azharris1964/azharris1964/assets/20175659/8fc5edc9-5b53-440e-9a0a-13c430a5b1d8)
 
-![Screenshot (110)](https://github.com/azharris1964/azharris1964/assets/20175659/c59f1830-f586-49ff-ad01-d92cea74e2d7)
+[Screenshot (110)](https://github.com/azharris1964/azharris1964/assets/20175659/c59f1830-f586-49ff-ad01-d92cea74e2d7)
 
 - ## CSMA 311 Design Technology Exploration - Echo Theohar - Spring 2023
 #### In this class, we worked on Mapping Burbank. Mapping Burbankis a story-based, self-guided digitalapplication tour and gallery presentation of the community of Burbank. Mapping Burbank showcases stories that have been eclipsed by the world-wide acclaim of film and television industry, along with monuments about Burbank. Using a combination of augmented reality, sound, and photography, Mapping Burbank will present visions of a multi-layered community that is rich in history, ecology, and culture. The gallery section will present visions for monuments that are intended to spark the viewers’ imagination about rethinking collective memory. 
 
   - Mapping Burbank
 
-![Mapping Burbank1](https://github.com/azharris1964/azharris1964/assets/20175659/693022d4-e2d8-43d3-84b6-7e665dfd3e57)
+[Mapping Burbank1](https://github.com/azharris1964/azharris1964/assets/20175659/693022d4-e2d8-43d3-84b6-7e665dfd3e57)
 
 - ## MDST 306 Radio in the Age of the Internet - Mark McNeill - Fall 2022
 #### Taking this course exposed me to theory	and	technique	of	radio,	as	both	a	terrestrial	and	internet	medium,	with	a	focus	on	the	role	of	radio	in	positively transforming	communities.	The	course	began	with	a	hands-on	introduc on	to	industry-standard	broadcast	production tools. My final was a fully formed	radio	episode that led to the creation of my ongoing college radio show "Cyber Revolution Network".
