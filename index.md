@@ -129,8 +129,8 @@
 
 ![](https://github.com/azharris1964/azharris1964/assets/20175659/dbfc1adf-9466-4995-8782-0ac2960f2dd1)
 
-- ## CSMA 302 Media Programming II - Arash Soleimani - Fall 2022
-#### Taking this course introduced me to computational thinking and the fundamental concepts of computation through explorations with advanced generative scripting and parametric tools. The goal was to understand the potential of computation and the role it can play as part of one’s design process; not as a collection of specific tools, but as a way of thinking about design. My final project was a study if Form Optimization Using Evolutionary Computation in Rhino3d.
+- ## CSMA 302 Media Programming 2 - Arash Soleimani - Fall 2022
+#### Taking this course introduced me to computational thinking and the fundamental concepts of computation through explorations with advanced generative scripting and parametric tools. The goal was to understand the potential of computation and the role it can play as part of one’s design process; not as a collection of specific tools, but as a way of thinking about design. My final project was a study of Form Optimization Using Evolutionary Computation in Rhino 3D.
 
   - Form Optimization Using Evolutionary Computation
 ![Initial geometry](https://github.com/azharris1964/azharris1964/assets/20175659/472fd96c-d46a-472d-91ef-a27f81be5814)
@@ -146,7 +146,7 @@
 <img width="724" alt="Third Shape Evolution 2nd Generation" src="https://github.com/azharris1964/azharris1964/assets/20175659/84fdd52c-f3a7-4a69-824f-0aed3243ece9">
 
 - ## CSMA 214 Applied Mathematics - Michael Peguero - Spring 2022
-#### Taking this course exposed me algorithmic thinking and mathematical logic in the context of computation. We explored the applications of flocking/swarming simulations, factorials and nChooseK, Game of Life, and the Mandelbrot algorithm. The core concept of this class is deriving an issue and solving it algorithmically. For my final assignment I created a Shopping Simulation in Unity that combined various algorithms and methods to create an abstracted shopping mall experience.
+#### Taking this course exposed me to algorithmic thinking and mathematical logic in the context of computation. We explored the applications of flocking/swarming simulations, factorials and nChooseK, Game of Life, and the Mandelbrot algorithm. The core concept of this class is to derive an issue and solve it algorithmically. For my final assignment I created a Shopping Simulation in Unity that combined various algorithms and methods to create an abstracted shopping mall experience.
 
   - Flocking Simulation
 
@@ -162,7 +162,7 @@
 ![Shopping_Sim](https://github.com/azharris1964/azharris1964/assets/20175659/3a4f0119-2b97-4de8-90a8-f8b1f286b710)
 
 - ## CSMA 213 Artificial Intelligence - Nikita Pashenkov - Spring 2022
-#### This class has taught me some of the principles and algorithms that govern machine and deep learning. We explored concepts like search algorithms, evolutionary algorithms, swarm intelligence, and model training. We endede the semester exploring generative neural network models on public notebooks in places like google colab and Hugging face. Our final project consisted of us creating our own GAN that gets trained on models to generate an output. My assignment was fed models of Ukiyo-E style portraits and generates an output that resembles that art style with the inputted image.
+#### This class exposed me to the principles and algorithms that govern machine and deep learning. We explored search algorithms, evolutionary algorithms, swarm intelligence, and model training. We ended the semester exploring generative neural network models using Google Colab and Hugging Face public notebooks. Our final project was to creating our own Generative Adversarial Network, training it with our own models to generate an output. My assignment was fed models of Ukiyo-E style portraits and generates an output that resembles that art style with any input image.
 
   - Hugging Face GAN Exploration
 
@@ -178,7 +178,7 @@
 ![output2 1](https://user-images.githubusercontent.com/20175659/165183683-03731917-99eb-4d0d-855b-8f969503f6bb.png)
 
 - ## CSMA 212 Media Environments - Ivaylo Getov - Spring 2022
-#### In this class I explored the concept of media environments and I created my own using TouchDesigner. This meant projection mapping, room-scaled installations, depth tracking, and other forms of media that interact with both the user and the space. This is accomplished in a program called "TouchDesigner" where modules are put together to project an output with the given variables. This program can handle anything from motion tracking to object instantiation.
+#### In this class I explored the concept of media environments and exploring experience design in TouchDesigner. This meant projection mapping, room-scaled installations, depth tracking, and other forms of experienced based media that interacts with both the user and the space.
 
   - Texture and Channels Assignment
 #### For this assignment I created an abstracted game show in the vain of shows like Squid Game, where the virtual user answers yes or no questions by crossing the halfway point of the marked experience borders.
@@ -190,27 +190,32 @@
 
 ![Deep_Space_Experience_video 1_Moment](https://user-images.githubusercontent.com/20175659/165182419-70d55ffd-66d0-497e-9ded-91c7fbf9e862.jpg)
 
+ - Projection Mapping Practice
+
+![Projection_Mapping_Demo](https://github.com/azharris1964/azharris1964/assets/20175659/c1d9a5b4-c08e-4266-87eb-7c9d0a78629e)
+
   - Gestural Grafitti
 #### For my final assignment I am going to use kinect spatial sensors the implement what I refer to as gestural grafitti on what at first glance appears to be a blank wall. Users will use both hands to do actions like draw, erase, change color, and save their image.
 
 ![unnamed (2)](https://github.com/azharris1964/azharris1964/assets/20175659/d9f27a9c-d69d-41fa-aba5-b9d70dfc4c7d)
 
-- ## CSMA 113 Mixed Reality - Michael Peguero - Spring 2021
-#### This class allowed me to expermient with the world of VR and AR in a computational and design framework. This class taught me how to develop VR and AR interactions for tools such as SparkAR, Glitch.io, A-Frame, and finally Unity. We practiced different aspects of computational design and learned the skills to produce media using video processing, motion, and my conceptual aesthetics.
+![Gestural_Graffiti_Demo](https://github.com/azharris1964/azharris1964/assets/20175659/9612e531-fd19-4e01-b237-4a54fe951ca4)
 
-  - A-Frame + Glitch.io + SparkAR
+
+- ## CSMA 113 Mixed Reality - Michael Peguero - Spring 2021
+#### This class facilitated expermienting with the virtual reality and augmented reality in a computational and design framework. We developed VR and AR interactions using SparkAR, Glitch.io, A-Frame, and finally Unity. We put into practiced the concepets of computational design and learned the skills required to produce media using video processing, motion, and conceptual aesthetics. My final project was a conceptual program called "The Bureau of Cyber Discovery." This is a simulated onboarding experience for a fictitious government entity that inflitrates video game party chats and online gaming forums to spy on gamers. Based in satire, their onboarding experience is imagined to be mundane and inadequate, providing the agents with seemingly useless facts the average gamer wouldn't know. Immersion being the first step to infiltration for this fictitious organization, the interaction consisted of an augmented reality Menu HUD activated by scanning a video game cover art. This experience provided gamer-related button interactions as well as initiating the main experience: the virtual reality Video Game Facts simulation. This placed the "Agent" in a simulated back alley environment where they are tasked with learning useless facts about gaming while immersed in an the night time enviroment.
+
+  - A-Frame + Glitch.io + SparkAR Demos
 
 ![ARMONTAE_HARRIS-VD-02_Moment](https://user-images.githubusercontent.com/20175659/156008108-b44d4451-9c41-4446-a8da-c4795e359f12.jpg)
 
-![menu-interface-video_g2PRACOT_Moment](https://user-images.githubusercontent.com/20175659/156008298-22dd48b4-8715-4416-bee3-e8f734a3271d.jpg)
-
 ![Cyber Initiative Facts_Moment](https://user-images.githubusercontent.com/20175659/156008471-d3cea552-72f9-406f-bcf3-efd6b14c9322.jpg)
 
-  - Unity Final
+  - The Bureau of Cyber Discovery
 
-![unity final](https://user-images.githubusercontent.com/20175659/156005815-3ecdb0ce-9cda-4253-8a9a-d2108b81f07a.jpg)
+![Menu_Demo](https://github.com/azharris1964/azharris1964/assets/20175659/861bec8c-73a5-4410-9f49-e0128176a082)
 
-![2021-04-28 17-03-38_Moment](https://user-images.githubusercontent.com/20175659/156007826-ad3e4648-c065-4bab-9d5c-8dbc2fd0af7d.jpg)
+![Bureau_Demo](https://github.com/azharris1964/azharris1964/assets/20175659/3f7aa3e2-4e14-4627-b90f-84b9676e4d8d)
 
 - ## CSMA 112 Interactive Prototyping - Gottfried Haider - Spring 2021
 #### In this course I learned got a hands-on introduction into prototype creation and design. We learned practical electronics knowledge along with programming in Python to develop working prototypes. We got to use microcomputers, sensors, fabrication software, LEDs. and more to establish interactions between users and these objects.
@@ -227,14 +232,14 @@
 #### The objective of this course was to explore 3-dimensional space using computation. In practice, we used manipulated sphere algorithms to create unique 3D objects. We explored methods of 3-D rendering first in processing, then in Rhino. For my final project I developed a plugin in Rhino that developed unique objects based on mood that can be named, animated, and saved.
 
   - Round Drawings
-#### We learned about drawing spheres and the fundamentals of drawing using computation in Processing.
+#### We learned about graphics programming and the fundamentals of computational drawing in Processing.
  
 ![Birth of a Star](https://user-images.githubusercontent.com/20175659/155989519-993b19db-d14e-4914-8984-3da819d49c3d.png)
 
 ![Vital Signs](https://user-images.githubusercontent.com/20175659/155991883-40df37c3-9b64-4638-91eb-b02e89ac7369.png)
 
   - Round Objects
-#### We built on the drawing techniques we learned earlier to draw our circles as spheres. We learned how to manipulate color and line attributes. Around this time we migrated to Rhino with the Python editor and began making some really complex shapes.
+#### We built on the drawing techniques we learned earlier to draw our circles as spheres. We learned how to manipulate color and line attributes. Around this time we migrated to Rhino with the Python editor and began making complex shapes.
 
 ![Object 3 isometric view](https://user-images.githubusercontent.com/20175659/155990863-c7882add-81dc-4c11-83b8-62ffc73d00d7.png)
 
