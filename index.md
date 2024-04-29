@@ -5,7 +5,8 @@
 - ## CSMA 402 Thesis 2 - Echo Theohar - Spring 2024
 #### In this class, we focused on technological explorations and functional prototyping for our Senior Thesis project. I completed my thesis proposals, including documentation, and defended the core concepts synthesized as part of my research and development process. This demonstrated technical proficiency, conceptual originality, practical methodology, creative problem solving, and critical thinking in the implementation of my project MazeVoid.
 
-  - MazeVoid Gameplay Showcase
+  - MazeVoid
+#### PSX-style survival horror developed in Unreal Engine with the aim to explore the integration of adaptive AI systems, procedural generation and dynamic difficulty mechanisms in horror game design. For thesis purposes this is a study in player engagement and experience enhancement. Utilizing dungeon architect and difficulty scaling plugins along with Unreal AI behavior trees and hide-and-seek stealth gameplay, no two runs will be exactly the same. 
 
 ![MazeVoid_Gameplay_Showcase](https://github.com/azharris1964/azharris1964/assets/20175659/3a256a2a-d61f-49eb-ba90-01030a86ec90)
 
@@ -195,7 +196,7 @@
 ![Projection_Mapping_Demo](https://github.com/azharris1964/azharris1964/assets/20175659/c1d9a5b4-c08e-4266-87eb-7c9d0a78629e)
 
   - Gestural Grafitti
-#### For my final assignment I am going to use kinect spatial sensors the implement what I refer to as gestural grafitti on what at first glance appears to be a blank wall. Users will use both hands to do actions like draw, erase, change color, and save their image.
+#### Gestural Graffiti is an interactive art installation where users physically engage with a virtual graffiti canvas using hand gestures. Developed using Kinect camera technology and TouchDesigner to display the interactive space on a physical wall.
 
 ![unnamed (2)](https://github.com/azharris1964/azharris1964/assets/20175659/d9f27a9c-d69d-41fa-aba5-b9d70dfc4c7d)
 
